@@ -1,0 +1,7 @@
+.image {
+    height: 20vh;
+    transition: 5s;
+}
+.image:hover {
+    height: 50vh;
+}
